@@ -1,5 +1,5 @@
 
-To run game on Windows you need to install window-curses
+To run game on Windows you need to install windows-curses
   
    
-    pip install window-curses
+    pip install windows-curses
